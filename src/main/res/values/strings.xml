@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameSide</string>
+    <string name="app_greeting">To Get Started </string>
+    <string name="team_name_prompt">Enter A Team Name</string>
+</resources>
