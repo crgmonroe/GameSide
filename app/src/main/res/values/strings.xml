@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GameSide</string>
+    <string name="app_greeting">To Get Started </string>
+    <string name="team_name_prompt">Enter A Team Name</string>
+    <string name="title_activity_startteamactivity">Choose A Team Below:</string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string-array name="color_array">
+        <item name="android:textColor" Value="White">White</item>
+        <item name="android:textColor" Value="Black">Black</item>
+        <item name="android:textColor" Value="Blue">Blue</item>
+        <item name="android:textColor" Value="Yellow">Yellow</item>
+        <item name="android:textColor" Value="Green">Green</item>
+        <item name="android:textColor" Value="Red">Red</item>
+        <item name="android:textColor" Value="Brown">Brown</item>
+        <item name="android:textColor" Value="Purple">Purple</item>
+    </string-array>
+</resources>
